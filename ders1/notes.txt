@@ -1,0 +1,18 @@
+# MultiLine choice
+
+ALT + cursoru istenilen yere click etmekle qoy
+
+
+# --------------------------
+# "alt" attribute helps to screen readers to pronounce words for blinds; 
+# so when hover the picture with mouse, screen reader will say istenilen
+
+<img src="" alt="">
+
+
+# block vs inline element
+
+block element contentinden asili olmayaraq oldugu ekranin widthis qeder genislenir
+inline element contenti qeder width goturur, tutur
+
+
